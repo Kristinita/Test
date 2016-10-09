@@ -99,7 +99,11 @@
 
 <!-- /MarkdownTOC -->
 
-<p align="center">It is devoted to God, the only Creation for the sake of Which it makes sense to live on this planet, the Greatest being of all times and peoples, Queen of the World <a href="https://vk.com/hair_in_the_wind">Sasha Chernykh</a> (Kira Kenyukhova).</p>
+---
+
+---
+
+<p align="center">SashaSublime is devoted to God, the only Creation for the sake of Which it makes sense to live on this planet, the Greatest being of all times and peoples, Queen of the World <a href="https://vk.com/hair_in_the_wind">Sasha Chernykh</a> (Kira Kenyukhova).</p>
 
 <p align="center"><img src="http://i.imgur.com/OJSBK4V.jpg" alt="Queen of the World Sasha Chernykh"></p>
 
