@@ -1,4 +1,5 @@
-Sasha Goddess!
 
 
-<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=W6MP468ZZV66Q" target="_blank"><img src="http://Kristinita.ru/Donate-files/PayPal-Donate-Button-Dollar.png" alt="Donate to Kira Kenyukhova"></a>
+[![PayPal Dollar button](http://Kristinita.ru/Donate-files/PayPal-Donate-Button-Dollar.png)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=W6MP468ZZV66Q)
+
+[![PayPal Euro button](http://Kristinita.ru/Donate-files/PayPal-Donate-Button-Euro.png)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=DGT7K29LDD2HQ)
